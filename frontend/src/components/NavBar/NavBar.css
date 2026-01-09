@@ -1,0 +1,18 @@
+.NavBar{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.search_icon{
+    height : 40px;
+    width : 40px;
+}
+.basket_icon{
+    height : 40px;
+    width : 40px;
+}
+.logo{
+    height : 100px;
+    width : 100px;
+}
