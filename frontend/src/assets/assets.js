@@ -1,6 +1,6 @@
 import basket_icon from './basket_icon.jpg';
 import logo from './logo.jpg';
-import header_img from './header_img.avif';
+import header_img from './header_img.jpg';
 import search_icon from './search_icon.jpg';
 // import menu_1 from './menu_1.png';
 // import menu_2 from './menu_2.png';
@@ -85,16 +85,40 @@ export const assets = {
     // parcel,
 }
 
-// export const menu_list = {
-//     menu_1,
-//     menu_2,
-//     menu_3,
-//     menu_4,
-//     menu_5,
-//     menu_6,
-//     menu_7,
-//     menu_8,
-// }
+export const menu_list = [
+    {
+        menu_name : "Salads",
+        menu_img : menu_1,
+    },
+    {
+        menu_name : "Rolls",
+        menu_img : menu_2,
+    },
+    {
+        menu_name : "Desserts",
+        menu_img : menu_3,
+    },
+    {
+        menu_name : "Sandwiches",
+        menu_img : menu_4,
+    },
+    {
+        menu_name : "Cakes",
+        menu_img : menu_5,
+    },
+    {
+        menu_name : "Pure Veg",
+        menu_img : menu_6,
+    },
+    {
+        menu_name : "Pasta",
+        menu_img : menu_7,
+    },
+    {
+        menu_name : "Noodles",
+        menu_img : menu_8,
+    }
+];
 
 // export const food_list = {
 //      food_1,
