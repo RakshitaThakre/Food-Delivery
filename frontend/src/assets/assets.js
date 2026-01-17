@@ -1,6 +1,6 @@
 import basket_icon from './basket_icon.jpg';
 import logo from './logo.jpg';
-// import header_img from './header_img.png';
+import header_img from './header_img.avif';
 import search_icon from './search_icon.jpg';
 // import menu_1 from './menu_1.png';
 // import menu_2 from './menu_2.png';
@@ -66,7 +66,7 @@ import search_icon from './search_icon.jpg';
 export const assets = {
     basket_icon,
     logo,
-    // header_img,
+    header_img,
     search_icon,
     // add_icon_white,
     // add_icon_green,
